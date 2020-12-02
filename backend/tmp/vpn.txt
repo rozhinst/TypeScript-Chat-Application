@@ -1,2 +1,0 @@
-tachyon vpn
-vpnify
